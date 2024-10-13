@@ -1,5 +1,5 @@
 {
-  "appTitle": "Banking Application",
+  "appTitle": "<strong>Banking<strong/> Application",
   "welcome_user": "Welcome, {{name}}",
   "welcome_user_male": "Welcome, Mr. {{name}}",
   "welcome_user_female": "Welcome, Ms. {{name}}",
