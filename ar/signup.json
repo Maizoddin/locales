@@ -1,0 +1,8 @@
+{
+  "signupTitle": "إنشاء حسابك",
+  "nameLabel": "الاسم الكامل",
+  "emailLabel": "عنوان البريد الإلكتروني",
+  "passwordLabel": "كلمة المرور",
+  "confirmPasswordLabel": "تأكيد كلمة المرور",
+  "submitButton": "اشتراك"
+}
