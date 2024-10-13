@@ -1,0 +1,13 @@
+{
+  "appTitle": "Application Bancaire",
+  "welcome_user": "Bienvenue, {{name}}",
+  "welcome_user_male": "Bienvenue, Monsieur {{name}}",
+  "welcome_user_female": "Bienvenue, Madame {{name}}",
+  "user": "{{count}} utilisateur",
+  "user_other": "{{count}} utilisateurs",
+  "submitButton": "Soumettre",
+  "english": "Anglais",
+  "french": "Français",
+  "arabic": "Arabe",
+  "hindi": "Hindi"
+}
