@@ -1,0 +1,13 @@
+{
+  "appTitle": "बैंकिंग एप्लिकेशन",
+  "welcome_user": "स्वागत है, {{name}}",
+  "welcome_user_male": "स्वागत है, श्रीमान् {{name}}",
+  "welcome_user_female": "स्वागत है, सुश्री {{name}}",
+  "user": "{{count}} उपयोगकर्ता",
+  "user_other": "{{count}} उपयोगकर्ता",
+  "submitButton": "प्रस्तुत करें",
+  "english": "अंग्रेज़ी",
+  "french": "फ्रेंच",
+  "arabic": "अरबी",
+  "hindi": "हिंदी"
+}
