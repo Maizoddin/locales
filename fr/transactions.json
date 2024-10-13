@@ -1,0 +1,7 @@
+{
+  "transactionsTitle": "Transactions",
+  "transactionIdLabel": "ID de transaction",
+  "amountLabel": "Montant",
+  "dateLabel": "Date",
+  "statusLabel": "Statut"
+}

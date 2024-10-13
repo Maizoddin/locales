@@ -1,0 +1,8 @@
+{
+  "usersListTitle": "Liste des utilisateurs",
+  "nameColumn": "Nom",
+  "emailColumn": "Email",
+  "actionsColumn": "Actions",
+  "editButton": "Modifier",
+  "deleteButton": "Supprimer"
+}
