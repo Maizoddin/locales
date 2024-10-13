@@ -1,0 +1,13 @@
+{
+  "appTitle": "تطبيق مصرفي",
+  "welcome_user": "مرحبا، {{name}}",
+  "welcome_user_male": "مرحبا، السيد {{name}}",
+  "welcome_user_female": "مرحبا، السيدة {{name}}",
+  "user": "{{count}} مستخدم",
+  "user_other": "{{count}} مستخدمين",
+  "submitButton": "إرسال",
+  "english": "إنجليزي",
+  "french": "فرنسي",
+  "arabic": "عربي",
+  "hindi": "هندي"
+}
